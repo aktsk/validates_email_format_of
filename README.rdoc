@@ -4,13 +4,9 @@ Validate e-mail addresses against RFC 2822 and RFC 3696.
 
 == Installation
 
-Installing as a gem:
-
-  gem install validates_email_format_of
-
 Or in your Gemfile:
 
-  gem 'validates_email_format_of'
+  gem 'validates_email_format_of', github: "aktsk/validates_email_format_of"
 
 == Usage
 
